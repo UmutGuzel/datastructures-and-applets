@@ -1,8 +1,9 @@
 # datastructures-and-applets
 Visualization base data structures using applets.
 ---
-![Main menu](markdow_image/mainmenu.jpg)
-![Stack Using Array](markdow_image/stacka.jpg)
-![Queue Using Array](markdow_image/queuea.jpg)
-![Stack Using Linkedlist](markdow_image/stackll.jpg)
-![Queue Using Linkedlist](markdow_image/quequell.jpg)
+
+<img src="https://github.com/UmutGuzel/datastructures-and-applets/blob/main/markdown_image/mainmenu.jpg?raw=true" alt = "Main menu" width="600" height="500">
+<img src="https://github.com/UmutGuzel/datastructures-and-applets/blob/main/markdown_image/stacka.jpg?raw=true" alt = "Stack Using Array" width="600" height="500">
+<img src="https://github.com/UmutGuzel/datastructures-and-applets/blob/main/markdown_image/queuea.jpg?raw=true" alt = "Queue Using Array" width="600" height="500">
+<img src="https://github.com/UmutGuzel/datastructures-and-applets/blob/main/markdown_image/stackll.jpg?raw=true" alt = "Stack Using Linkedlist" width="600" height="500">
+<img src="https://github.com/UmutGuzel/datastructures-and-applets/blob/main/markdown_image/quequell.jpg?raw=true" alt = "Queue Using Linkedlist" width="600" height="500">
